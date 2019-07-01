@@ -1,6 +1,6 @@
 # Machine Learning tools
 
-## Natural Language Understanding - Question Answering
+  ## Natural Language Understanding - Question Answering
 
 Google’s BERT
 OpenAI’s GPT-2
@@ -9,37 +9,37 @@ Google’s Transformer-XL
 https://github.com/hanxiao/bert-as-service
 
 
-XLNET
+  ## Reinforcement Learning
 
+XLNET
 https://github.com/zihangdai/xlnet
 
 
-Tutorials
-
-https://towardsdatascience.com/building-a-search-engine-with-bert-and-tensorflow-c6fdc0186c8a?fbclid=IwAR2IeuUjxa24b98dSeas0J0R_Aw6SuoPjxQvEjWOK8lteJedE13Mw4LV9qs
-https://hanxiao.github.io/2018/04/21/Teach-Machine-to-Comprehend-Text-and-Answer-Question-with-Tensorflow/
-https://docs.fast.ai/
-
-## Time Series Data Mining
+  ## Time Series Data Mining
 
 STUMPY
 https://github.com/TDAmeritrade/stumpy
 
 
-## Math
+# Math
 
 https://www.wolframalpha.com/examples/mathematics/
 
-## Visual
+# Visualization
 
 https://github.com/microsoft/tensorwatch
 http://vpython.org/
 https://processing.org/tutorials/
 
-Courses
+# Courses
 
 https://course.fast.ai/
 
+# Tutorials
+
+https://towardsdatascience.com/building-a-search-engine-with-bert-and-tensorflow-c6fdc0186c8a?fbclid=IwAR2IeuUjxa24b98dSeas0J0R_Aw6SuoPjxQvEjWOK8lteJedE13Mw4LV9qs
+https://hanxiao.github.io/2018/04/21/Teach-Machine-to-Comprehend-Text-and-Answer-Question-with-Tensorflow/
+https://docs.fast.ai/
 
 # Others
 
