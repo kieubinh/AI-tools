@@ -46,3 +46,4 @@ https://docs.fast.ai/
 https://github.com/benedekrozemberczki/awesome-decision-tree-papers
 https://github.com/giacomelli/GeneticSharp
 
+Github readme: https://help.github.com/en/articles/basic-writing-and-formatting-syntax
